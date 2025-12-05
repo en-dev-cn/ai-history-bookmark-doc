@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Privacy Policy"
+---
 # AI History Bookmark - Privacy Policy
 
 **Version:** 1.0.0  
